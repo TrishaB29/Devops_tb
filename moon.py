@@ -1,1 +1,2 @@
-iprint("Hello Trisha")
+print("Hello Trisha")
+print("Hey there")

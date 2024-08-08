@@ -1,5 +1,6 @@
-i#include <stdio.h>
+#include <stdio.h>
 int main(void){
-	print("hello bub");
+	printf("hello bub");
 	
 	return 0;
+}
